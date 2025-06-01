@@ -1,7 +1,7 @@
 # Note: This repository is _not_ included in the Hacktoberfest event, as it is for practice only!
 
 ## Awesome GitHub profiles
-## "This is a simple edit for learning purposes"
+
 [![Read/Write profiles' data](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml/badge.svg)](https://github.com/EddieHubCommunity/awesome-github-profiles/actions/workflows/main.yml)
 
 List of GitHub profiles that have awesome customization, that you can use for inspiration.\
@@ -45,7 +45,7 @@ Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesom
 }
 ```
 
-4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `closes #issueNumber`
+4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <AhmadSharoud>` and in the description add `closes #issueNumber`
 
 ## Check out our awesome profiles [here](https://eddiehubcommunity.github.io/awesome-github-profiles/profiles)
 
